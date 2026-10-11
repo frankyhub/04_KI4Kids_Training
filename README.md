@@ -839,7 +839,7 @@ Die mittlere durchschnittliche Genauigkeit (Mean Average Precision, mAP) wird ve
 mAP entspricht dem Durchschnitt der Metrik "Durchschnittliche Genauigkeit" für alle Klassen in einem Modell. Sie können mAP verwenden, um sowohl 
 verschiedene Modelle für dieselbe Aufgabe als auch verschiedene Versionen desselben Modells zu vergleichen. mAP wird zwischen 0 und 1 gemessen.
 
-<img src="pic/hmap.png" width="500"> 
+<img src="pic/map.png" width="500"> 
 <br> <br>
 
 ---
