@@ -1,26 +1,17 @@
 <a name="oben"></a>
 
-
-
-
-
 <div align="center">
 
-# Einen Datensatz erstellen und trainieren
-
-
-
-|[:skull:ISSUE](https://github.com/frankyhub/04_KI4Kids_Training/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/04_KI4Kids_Training/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/04_KI4Kids_Training/blob/main/wiki.md)|
-|--|--|--|
-| | | | 
-| <a href="https://github.com/frankyhub/04_KI4Kids_Training/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/04_KI4Kids_Training/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
-
-![Bild](/pic/training.png)
-
+|[:skull:ISSUE](https://github.com/frankyhub/04_KI4Kids_Training/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/04_KI4Kids_Training/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/04_KI4Kids_Training/wiki)||
+|--|--|--|--|
+| | | | |
+<a href="https://github.com/frankyhub/04_KI4Kids_Training/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/04_KI4Kids_Training)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/04_KI4Kids_Training)|<a href="https://github.com/frankyhub/04_KI4Kids_Training/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/04_KI4Kids_Training)|<a href="https://github.com/frankyhub/04_KI4Kids_Training/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/04_KI4Kids_Training)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2094-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/04_KI4Kids_Training)| <a href="https://github.com/frankyhub/04_KI4Kids_Training/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/04_KI4Kids_Training/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 </div>
 
-
+<img src="pic/training.png" width="500"> 
+<br> <br>
 
 
 ## Story
@@ -30,8 +21,8 @@ Dieses Repo beschreibt das Training (Supervised Learning) einer KI zur Erkennung
 
 ## Geometrische Formen erkennen
 
-![Bild](/pic/geo.png)
-
+<img src="pic/geo.png" width="500"> 
+<br> <br>
 
 ## Ablauf
 
@@ -330,20 +321,25 @@ In Roboflow kannst du Bilder hochladen, labeln, trainieren und exportieren.
 
 
 
-![Bild](pic/robologin.png)
+<img src="pic/robologin.png" width="500"> 
+<br> <br>
 
-![Bild](pic/anmeldung.png)
+<img src="pic/anmeldung.png" width="500"> 
+<br> <br>
+
 
 ## Erstelle ein neues public Projekt
 
-![Bild](pic/roboproject.png)
+<img src="pic/roboproject.png" width="500"> 
+<br> <br>
 
 ### 1. Upload Data
 
 • Lade deine Bilder in Roboflow hoch.
 
 
-![Bild](pic/roboupload.png)
+<img src="pic/roboupload.png" width="500"> 
+<br> <br>
    
 • Save and Continue
 
@@ -357,14 +353,16 @@ In Roboflow kannst du Bilder hochladen, labeln, trainieren und exportieren.
 
 • Start Annotating
 
-![Bild](pic/roboanno1.png)
+<img src="pic/roboanno1.png" width="500"> 
+<br> <br>
 
-![Bild](pic/roboanno2.png)
+<img src="pic/roboanno2.png" width="500"> 
+<br> <br>
 
 • Bestimme die Klassen
 
-![Bild](pic/roboanno3.png)
-
+<img src="pic/roboanno3.png" width="500"> 
+<br> <br>
 
 
 ### 2. Daten aufteilen (Train/Val/Test-Split erstellen)
@@ -400,24 +398,29 @@ Falls du die Splits nachträglich ändern möchtest:
 
 Hinweis: Roboflow aktualisiert die Splits basierend auf den neuen Prozentwerten. Bereits existierende Splits werden überschrieben.
 
-![Bild](pic/split.png)
+<img src="pic/split.png" width="500"> 
+<br> <br>
 
-![Bild](pic/split2.png)
+<img src="pic/split2.png" width="500"> 
+<br> <br>
 
+<img src="pic/robotrain1.png" width="500"> 
+<br> <br>
 
-![Bild](pic/robotrain1.png)
+<img src="pic/fast.png" width="500"> 
+<br> <br>
 
-![Bild](pic/fast.png)
-
-![Bild](pic/mscoco.png)
-
+<img src="pic/mscoco.png" width="500"> 
+<br> <br>
 
 
 ### Start Train Model
 
-![Bild](pic/robotrain1.png)
+<img src="pic/robotrain1.png" width="500"> 
+<br> <br>
 
-![Bild](pic/map.png)
+<img src="pic/mmap.png" width="500"> 
+<br> <br>
 
 Die mittlere durchschnittliche Genauigkeit mAP (Mean Average Precision)
 
@@ -437,7 +440,9 @@ Die mittlere durchschnittliche Genauigkeit mAP (Mean Average Precision)
 
 Die Datenstruktur sollte wie folgt aussehen:
 
-![Bild](pic/dateistrucktur.png)
+<img src="pic/dateistrucktur.png" width="500"> 
+<br> <br>
+
 
 
 
@@ -496,8 +501,8 @@ names: ['Dreieck', 'Kreis', 'Viereck']
 
 Training und Detection
 
-![Bild](pic/train1.png)
-
+<img src="pic/train1.png" width="500"> 
+<br> <br>
 
 ### Ultralytics installieren
 
@@ -582,11 +587,11 @@ cv2.destroyAllWindows()
 
 ## Ergebnis:
 
-![Bild](pic/detect.png)
+<img src="pic/detect.png" width="500"> 
+<br> <br>
 
-![Bild](pic/geocam.png)
-
-
+<img src="pic/geocam.png" width="500"> 
+<br> <br>
 
 ---
 ---
@@ -735,7 +740,8 @@ results = model("biker.mp4", save=True, show=True)
 
 ```
 
-![Bild](pic/helmet4.png)
+<img src="pic/helmet4.png" width="500"> 
+<br> <br>
 
 ### Das Ergebis wurde als Video gespeichert:
 
@@ -833,8 +839,8 @@ Die mittlere durchschnittliche Genauigkeit (Mean Average Precision, mAP) wird ve
 mAP entspricht dem Durchschnitt der Metrik "Durchschnittliche Genauigkeit" für alle Klassen in einem Modell. Sie können mAP verwenden, um sowohl 
 verschiedene Modelle für dieselbe Aufgabe als auch verschiedene Versionen desselben Modells zu vergleichen. mAP wird zwischen 0 und 1 gemessen.
 
-![Bild](/pic/map.png)
-
+<img src="pic/hmap.png" width="500"> 
+<br> <br>
 
 ---
 ---
