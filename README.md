@@ -420,7 +420,7 @@ Hinweis: Roboflow aktualisiert die Splits basierend auf den neuen Prozentwerten.
 <img src="pic/robotrain1.png" width="500"> 
 <br> <br>
 
-<img src="pic/mmap.png" width="500"> 
+<img src="pic/map.png" width="500"> 
 <br> <br>
 
 Die mittlere durchschnittliche Genauigkeit mAP (Mean Average Precision)
