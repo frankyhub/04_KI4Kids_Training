@@ -8,11 +8,12 @@
 <a href="https://github.com/frankyhub/04_KI4Kids_Training/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/04_KI4Kids_Training)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/04_KI4Kids_Training)|<a href="https://github.com/frankyhub/04_KI4Kids_Training/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/04_KI4Kids_Training)|<a href="https://github.com/frankyhub/04_KI4Kids_Training/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/04_KI4Kids_Training)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2094-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/04_KI4Kids_Training)| <a href="https://github.com/frankyhub/04_KI4Kids_Training/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/04_KI4Kids_Training/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
-</div>
+
 
 <img src="pic/training.png" width="500"> 
 <br> <br>
 
+</div>
 
 ## Story
 Künstliche Intelligenz (KI) bezeichnet die Fähigkeit von Maschinen, menschenähnliche Intelligenzleistungen zu erbringen. Das umfasst das Lernen aus Erfahrungen, das Verstehen von Sprache, das Treffen von Entscheidungen und das Lösen komplexer Probleme. Im Wesentlichen geht es darum, Computer so zu programmieren, dass sie Aufgaben erledigen können, die normalerweise menschliche Intelligenz erfordern.
